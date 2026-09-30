@@ -1,0 +1,21 @@
+h1, h2, h3, p, ul, ol {
+  background-color: #c50e31;
+  color: white;
+}
+
+div {
+  border: 1px solid black;
+  width: 50%;
+}
+
+em, strong {
+  background-color: #096a7d;
+  color: white;
+}
+
+span {
+  background-color: #F63;
+  color: white;
+  font-family:Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+}
